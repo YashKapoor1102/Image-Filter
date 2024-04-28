@@ -1,6 +1,6 @@
 The project can be reached at:
 
-Voice: 416 779 9948
+Voice: 416-779-9948
 Website: https://carleton.ca/sce/
 E-mail: yashkapoor@cmail.carleton.ca
 
@@ -42,10 +42,8 @@ made-in-Carleton python library, must be downloaded to a folder.
 The four files T47_image_filters.py,T47_interactive_ui.py,T47_batch_ui.py and T47_user_interface.py should be downloaded into the same folder where Cimpl.py is in.
 
 
-**Usage:
+Usage:
 --------
-**
-
 First open T47_interactive_ui file then this will display.
 ```bash
 L)oad Image   S)ave as
@@ -103,9 +101,9 @@ Example of load  horizontal flipped image with Tint Sepia then save.
 Credits:
 ----------
 
-Yash Kapoor: Blue, Extreme Contrast and Improved Edge Detection Filter
-Abraham Paulose: Green, Two-tone, Three-tone and Edge Detection Filter
-Gordon Vanstokkom: Red, Sepia and Flip Vertical Filter
+Yash Kapoor: Blue, Extreme Contrast and Improved Edge Detection Filter  
+Abraham Paulose: Green, Two-tone, Three-tone and Edge Detection Filter  
+Gordon Vanstokkom: Red, Sepia and Flip Vertical Filter  
 Ben Li: Combined, Posterizing and Flip Horizontal Filter
 
-Copyright 2020 Hackers Inc. All rights reserved. 
+Copyright 2020. All rights reserved. 
