@@ -1,7 +1,7 @@
 The project can be reached at:
 
-Voice: 416-779-9948
-Website: https://carleton.ca/sce/
+Voice: 416-779-9948  
+Website: https://carleton.ca/sce/  
 E-mail: yashkapoor@cmail.carleton.ca
 
 Description:
