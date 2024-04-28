@@ -76,7 +76,7 @@ pixel below it as well as the pixel to the right of it.(need to enter the thresh
 **V** - Flip the image based on vertical axis  
 **Q** - Exit program
 
-Example of load  horizontal flipped image with Tint Sepia then save.
+Example of load  horizontal flipped image with Tint Sepia then save.  
 `>>>L`  
 `>>>H`  
 `>>>T`  
