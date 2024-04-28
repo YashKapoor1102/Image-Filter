@@ -15,9 +15,9 @@ will contain additional information to load an image, save an image to a designa
 
 The project is made up of four files:
 
-T47_image_filters.py
-T47_interactive_ui.py
-T47_batch_ui.py
+T47_image_filters.py  
+T47_interactive_ui.py  
+T47_batch_ui.py  
 T47_user_interface.py
 
 
@@ -77,12 +77,11 @@ pixel below it as well as the pixel to the right of it.(need to enter the thresh
 **Q** - Exit program
 
 Example of load  horizontal flipped image with Tint Sepia then save.
->>>L
->>>H
->>>T
->>>S
->>>Q
-----------
+`>>>L`  
+`>>>H`  
+`>>>T`  
+`>>>S`  
+`>>>Q`
 
 Credits:
 ----------
