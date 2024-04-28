@@ -21,9 +21,8 @@ T47_batch_ui.py
 T47_user_interface.py
 
 
-**Installation:
+Installation:
 ----------------
-**
 Must have windows 10 installed.
 Python 3.7.4 or later must be installed. 
 Python Image library,pip should be installed(iif not already installed with python).It can be done by typing the following into the command prompt.
@@ -60,35 +59,22 @@ For example if you want a horizontal flipped image with Tint Sepia. Simply type 
 In order to save the image, input “s” or ‘S’ on the python shell which will give a prompt asking for the directory for the file to be saved at. 
 For exiting the program, input ‘q’ or ‘Q’ in the shell then type enter.
 
-Table of useable buttons functions (can be CAPITAL or small)
-L
-Load image
-S
-Save image as
-2
-Make image only has two tone(colors)
-3
-Make image only has three tone(colors)
-X
-Maximize the contrast between pixels
-T
-Make Image yellowish like old picture
-P
-Make image blurry
-E
-creates an image that looks like a pencil sketch, by changing the pixels' colours to black or white. (need to enter the threshold value by typing a number and hitting enter)
+Useable buttons functions (can be CAPITAL or small)
+L - Load image
+S - Save image as
+2 - Make image only has two tone(colors)
+3 - Make image only has three tone(colors)
+X - Maximize the contrast between pixels
+T - Make Image yellowish like old picture
+P - Make image blurry
+E - creates an image that looks like a pencil sketch, by changing the pixels' colours to black or white. (need to enter the threshold value by typing a number and hitting enter)
 (range of threshold value is 0-256)
-I
-Improved version of above (pencil sketch) by comparing between each pixel and the 
+I - Improved version of above (pencil sketch) by comparing between each pixel and the 
 pixel below it as well as the pixel to the right of it.(need to enter the threshold value by typing a number and hitting enter)
 (range of threshold value is 0-256)
-H
-Flip the image based on horizontal axis
-V
-Flip the image based on vertical axis
-Q
-Exit program
-
+H - Flip the image based on horizontal axis
+V - Flip the image based on vertical axis
+Q - Exit program
 
 Example of load  horizontal flipped image with Tint Sepia then save.
 >>>L
