@@ -52,7 +52,7 @@ Q)uit
 ```
 Input in L or l in the python shell to load an image. A pop up window would show up asking to choose an image saved on the computer. Click on the desired image to load it.
 
-next select what element you wish to run by typing the first letter in front of each element. For example: if you want (two-tone) then type 2 in the python shell. Then press enter, an edited image will show up.(if it doesn’t load click enter again). You must close the image to continue.
+Next, select what element you wish to run by typing the first letter in front of each element. For example: if you want (two-tone) then type 2 in the python shell. Then press enter, an edited image will show up.(if it doesn’t load click enter again). You must close the image to continue.
 You may continue to enter any of the editing prompts until you end up with your desired product.
 For example if you want a horizontal flipped image with Tint Sepia. Simply type ‘H’ or ’h’ in the shell then press enter, close the opened image then type”T” or “t” in the shell and hit enter. The overlay image with 2 effects will be shown.
 
@@ -60,21 +60,21 @@ In order to save the image, input “s” or ‘S’ on the python shell which w
 For exiting the program, input ‘q’ or ‘Q’ in the shell then type enter.
 
 Useable buttons functions (can be CAPITAL or small)
-L - Load image
-S - Save image as
-2 - Make image only has two tone(colors)
-3 - Make image only has three tone(colors)
-X - Maximize the contrast between pixels
-T - Make Image yellowish like old picture
-P - Make image blurry
-E - creates an image that looks like a pencil sketch, by changing the pixels' colours to black or white. (need to enter the threshold value by typing a number and hitting enter)
-(range of threshold value is 0-256)
-I - Improved version of above (pencil sketch) by comparing between each pixel and the 
+**L** - Load image  
+**S** - Save image as  
+**2** - Make image only has two tone(colors)  
+**3** - Make image only has three tone(colors)  
+**X** - Maximize the contrast between pixels  
+**T** - Make Image yellowish like old picture  
+**P** - Make image blurry    
+**E** - creates an image that looks like a pencil sketch, by changing the pixels' colours to black or white. (need to enter the threshold value by typing a number and hitting enter)
+(range of threshold value is 0-256)  
+**I** - Improved version of above (pencil sketch) by comparing between each pixel and the 
 pixel below it as well as the pixel to the right of it.(need to enter the threshold value by typing a number and hitting enter)
-(range of threshold value is 0-256)
-H - Flip the image based on horizontal axis
-V - Flip the image based on vertical axis
-Q - Exit program
+(range of threshold value is 0-256)    
+**H** - Flip the image based on horizontal axis  
+**V** - Flip the image based on vertical axis  
+**Q** - Exit program
 
 Example of load  horizontal flipped image with Tint Sepia then save.
 >>>L
