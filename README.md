@@ -59,7 +59,7 @@ For example if you want a horizontal flipped image with Tint Sepia. Simply type 
 In order to save the image, input “s” or ‘S’ on the python shell which will give a prompt asking for the directory for the file to be saved at. 
 For exiting the program, input ‘q’ or ‘Q’ in the shell then type enter.
 
-Useable buttons functions (can be CAPITAL or small)
+Useable buttons functions (can be CAPITAL or small)  
 **L** - Load image  
 **S** - Save image as  
 **2** - Make image only has two tone(colors)  
