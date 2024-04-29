@@ -25,7 +25,7 @@ Installation:
 ----------------
 Must have windows 10 installed.
 Python 3.7.4 or later must be installed. 
-Python Image library,pip should be installed(iif not already installed with python).It can be done by typing the following into the command prompt.
+Python Image library, pip should be installed(iif not already installed with python). It can be done by typing the following into the command prompt.
 ```
 bash
 > pip install Pillow
@@ -43,7 +43,7 @@ The four files T47_image_filters.py,T47_interactive_ui.py,T47_batch_ui.py and T4
 
 Usage:
 --------
-First open T47_interactive_ui file then this will display.
+First, open T47_interactive_ui file then this will display.
 ```bash
 L)oad Image   S)ave as
 2)-tone       	3)-tone		X)treme contrast		T)int Sepia		P)osterizing
