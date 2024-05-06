@@ -86,9 +86,9 @@ Example of load  horizontal flipped image with Tint Sepia then save.
 Credits:
 ----------
 
-Yash Kapoor: Blue, Extreme Contrast and Improved Edge Detection Filter  
-Abraham Paulose: Green, Two-tone, Three-tone and Edge Detection Filter  
-Gordon Vanstokkom: Red, Sepia and Flip Vertical Filter  
-Ben Li: Combined, Posterizing and Flip Horizontal Filter
+- Yash Kapoor: Blue, Extreme Contrast and Improved Edge Detection Filter  
+- Abraham Paulose: Green, Two-tone, Three-tone and Edge Detection Filter  
+- Gordon Vanstokkom: Red, Sepia and Flip Vertical Filter  
+- Ben Li: Combined, Posterizing and Flip Horizontal Filter
 
 Copyright 2020. All rights reserved. 
