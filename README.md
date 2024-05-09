@@ -2,11 +2,7 @@
 
 ## Description
 
-This project contains a photo editing program, which allows the user to choose an image of their choice and apply specific filters to it cumulatively.    
-The program is split up into two user interfaces: an interactive user interface and a batch user interface. The interactive user interface will allow    
-the user to choose from a total of twelve commands, giving them the option to load an image, save the current image, apply a total of nine filters to    
-the image and quit the program at any given time. On the other hand, the batch user interface will prompt the user to enter the name of a file, which    
-will contain additional information to load an image, save an image to a designated folder and apply any of the nine filters to that image. 
+This project contains a photo editing program, which allows the user to choose an image of their choice and apply specific filters to it cumulatively. The program is split up into two user interfaces: an interactive user interface and a batch user interface. The interactive user interface will allow the user to choose from a total of twelve commands, giving them the option to load an image, save the current image, apply a total of nine filters to the image and quit the program at any given time. On the other hand, the batch user interface will prompt the user to enter the name of a file, which will contain additional information to load an image, save an image to a designated folder and apply any of the nine filters to that image.
 
 The project is made up of four files:
 
