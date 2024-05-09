@@ -15,7 +15,7 @@ T47_user_interface.py
 ## Installation
 Must have windows 10 installed.
 Python 3.7.4 or later must be installed. 
-Python Image library, pip should be installed(iif not already installed with python). It can be done by typing the following into the command prompt.
+Python Image library, pip should be installed (if not already installed with python). It can be done by typing the following into the command prompt.
 ```
 bash
 > pip install Pillow
