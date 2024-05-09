@@ -1,11 +1,12 @@
+# Image Filter
+
 The project can be reached at:
 
 Voice: 416-779-9948  
 Website: https://carleton.ca/sce/  
 E-mail: yashkapoor@cmail.carleton.ca
 
-Description:
-----------------
+## Description
 
 This project contains a photo editing program, which allows the user to choose an image of their choice and apply specific filters to it cumulatively.  
 The program is split up into two user interfaces: an interactive user interface and a batch user interface. The interactive user interface will allow  
@@ -21,8 +22,7 @@ T47_batch_ui.py
 T47_user_interface.py
 
 
-Installation:
-----------------
+## Installation
 Must have windows 10 installed.
 Python 3.7.4 or later must be installed. 
 Python Image library, pip should be installed(iif not already installed with python). It can be done by typing the following into the command prompt.
@@ -41,8 +41,7 @@ made-in-Carleton python library, must be downloaded to a folder.
 The four files T47_image_filters.py,T47_interactive_ui.py,T47_batch_ui.py and T47_user_interface.py should be downloaded into the same folder where Cimpl.py is in.
 
 
-Usage:
---------
+## Usage
 First, open T47_interactive_ui file then this will display.
 ```bash
 L)oad Image   S)ave as
@@ -83,9 +82,7 @@ Example of load  horizontal flipped image with Tint Sepia then save.
 `>>>S`  
 `>>>Q`
 
-Credits:
-----------
-
+## Credits
 - Yash Kapoor: Blue, Extreme Contrast and Improved Edge Detection Filter  
 - Abraham Paulose: Green, Two-tone, Three-tone and Edge Detection Filter  
 - Gordon Vanstokkom: Red, Sepia and Flip Vertical Filter  
