@@ -36,7 +36,7 @@ The four files T47_image_filters.py,T47_interactive_ui.py,T47_batch_ui.py and T4
 
 
 ## Usage
-First, open T47_interactive_ui file then this will display.
+First, open and run the T47_interactive_ui file, then this will display.
 ```bash
 L)oad Image   S)ave as
 2)-tone       	3)-tone		X)treme contrast		T)int Sepia		P)osterizing
