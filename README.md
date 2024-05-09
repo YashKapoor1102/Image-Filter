@@ -26,7 +26,7 @@ bash
 > pip install --upgrade Pillow
 ```
 
-An external library,[Cimpl.py](https://culearn.carleton.ca/moodle/pluginfile.php/3648678/mod_folder/content/0/Cimpl.py?forcedownload=1) which is a  
+An external library, [Cimpl.py](https://culearn.carleton.ca/moodle/pluginfile.php/3648678/mod_folder/content/0/Cimpl.py?forcedownload=1) which is a  
 made-in-Carleton python library, must be downloaded to a folder.
 The four files T47_image_filters.py,T47_interactive_ui.py,T47_batch_ui.py and T47_user_interface.py should be downloaded into the same folder where Cimpl.py is in.
 
